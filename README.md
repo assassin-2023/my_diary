@@ -38,3 +38,5 @@ mat：：zeros（）   mat：：ones（）   Scalar（）
 学习了linux：cd、pwd、mkdir创建文件夹
 touch创建文件、cat查看文件内容、more翻页查看文件内容（空格翻页）
 ctrl+l清屏
+晚上学了直立环和速度环的pid，为电子工艺搓平衡小车作准备（可能吧）
+电机方面一直想学，等校内赛结束找个时间看看
