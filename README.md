@@ -35,5 +35,6 @@ mat：：zeros（）   mat：：ones（）   Scalar（）
 学习了linux：ls命令
 晚上在源代码写入了apriltag二维码识别功能，等拿到k210再跑一下代码，进行修改
 ## 2024.5.14
-学习了linux：cd、pwd、mkdir知道了相对路径与绝对路径
-touch、cat、more
+学习了linux：cd、pwd、mkdir创建文件夹
+touch创建文件、cat查看文件内容、more翻页查看文件内容（空格翻页）
+ctrl+l清屏
