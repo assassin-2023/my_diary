@@ -30,7 +30,10 @@
 学习opencv的API：
 mat：：zeros（）   mat：：ones（）   Scalar（）
 打算5.6月份在学习32的同时学一下ros
-## 2024.5.14
+## 2024.5.13
 因为学ros2的时候感觉有很多命令行的意思不太清楚，打算先补一下linux基础
 学习了linux：ls命令
 晚上在源代码写入了apriltag二维码识别功能，等拿到k210再跑一下代码，进行修改
+## 2024.5.14
+学习了linux：cd、pwd、mkdir知道了相对路径与绝对路径
+touch、cat、more
