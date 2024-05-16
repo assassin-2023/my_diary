@@ -44,3 +44,5 @@ ctrl+l清屏
 学习了linux：cp复制文件 mv移动文件 rm删除文件 *通配符进行模糊匹配
 su - root切换root用户 exit退回普通用户
 在root情况下不要用 rm -rf /和 rm -rf /*
+## 2024.5.16
+备战校内赛
