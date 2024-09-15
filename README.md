@@ -153,3 +153,4 @@ violate修饰的结构体，其成员也是violate修饰
 4. **避免重复定义**：通过在一个文件中定义函数并在其他文件中声明，可以避免函数的重复定义，从而减少编译错误。
 
 总之，`extern void pit_handler();` 是为了在当前文件中使用 `pit_handler` 函数，而该函数的具体实现可能在其他地方。
+https://blog.csdn.net/qq_41709234/article/details/122984203?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522B87FE643-9318-4A84-92A6-D4253FBAA274%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=B87FE643-9318-4A84-92A6-D4253FBAA274&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-122984203-null-null.142^v100^pc_search_result_base5&utm_term=extern%E7%94%A8%E6%B3%95&spm=1018.2226.3001.4187
