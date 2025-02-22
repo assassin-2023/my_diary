@@ -156,3 +156,5 @@ violate修饰的结构体，其成员也是violate修饰
 https://blog.csdn.net/qq_41709234/article/details/122984203?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522B87FE643-9318-4A84-92A6-D4253FBAA274%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=B87FE643-9318-4A84-92A6-D4253FBAA274&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-122984203-null-null.142^v100^pc_search_result_base5&utm_term=extern%E7%94%A8%E6%B3%95&spm=1018.2226.3001.4187
 ## 2024.9.16
 解决机械问题，编码器难换，螺丝根本拆不下来马勒戈壁
+## 2025.2.22
+大二下学期马上开始了，有一段时间没有写学习日志，是时候重启了。这学期竞赛很多，专业课也很多，希望每天都能写好日志，回顾自己学了什么东西，有什么感悟，有什么收获。一定要加油！！！，这是个重要的节点！！！
