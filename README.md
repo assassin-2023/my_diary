@@ -215,7 +215,7 @@ pthread_rwlock_wrlock(读写锁变量地址）本身是读或写锁，阻塞  pt
 创建：pthread_cond_init(条件变量地址，读写锁属性（默认为null）) 销毁：pthread_cond_destroy(条件变量地址)  阻塞后不唤醒，就一直阻塞：pthread_cond_wait(条件变量地址，互斥锁地址)
 阻塞一定时间后就解除阻塞：pthread_cond_timewait(条件变量地址，互斥锁地址，超时的时长（结构体，秒＋纳秒）)，如何定义阻塞时长回顾视频代码  唤醒至少一个阻塞的线程：pthread_cond_signal(条件变量地址)  唤醒所有阻塞的线程：pthread_cond_signal(条件变量地址)
 
-***遇到的问题：1、数据结构，链表知识不熟 2、堆，栈，内存等数据结构的问题***
+***遇到的问题：1、数据结构，链表知识不熟 2、生产者消费者模型理解不透彻***
 
 
 
